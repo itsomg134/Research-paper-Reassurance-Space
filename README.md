@@ -34,6 +34,7 @@ A gentle, calming web page designed for the **Desire** Instagram community — a
 
 ##  Preview
 
+<img width="1897" height="2825" alt="image" src="https://github.com/user-attachments/assets/389fab71-0931-42b9-916a-323657855e87" />
 
 ##  Quick Start
 
