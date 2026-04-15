@@ -1,23 +1,13 @@
 # Research-paper-Reassurance-Space
 
-Here's a clean, professional **GitHub README** for your **Desire** reassurance website project. You can copy this directly into a `README.md` file in your repository.
-
----
-
-```markdown
-# ✨ Desire · Reassurance Space
-
-> *"You are exactly where you need to be."*
-
 A gentle, calming web page designed for the **Desire** Instagram community — a soft place to pause, breathe, and remember your worth beyond the scroll.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-web-%23b4846c)
-![Made with](https://img.shields.io/badge/made%20with-❤️%20%26%20HTML%2FCSS-orange)
+![Made with](https://img.shields.io/badge/made%20with-%20%26%20HTML%2FCSS-orange)
 
----
 
-## 🌿 About
+##  About
 
 **Desire** is a reassurance microsite built for Instagram bios, link-in-bio tools, or as a standalone digital hug. It delivers five core reminders about self-worth, comparison, and rest — paired with interactive self-care tools.
 
@@ -29,28 +19,23 @@ A gentle, calming web page designed for the **Desire** Instagram community — a
 
 ---
 
-## 🎨 Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
-| 💌 **5 Reassurance Messages** | Gentle truths about not being behind, worth beyond likes, comparison, logging off, and gratitude + desire |
-| 🌬️ **Interactive Breathing Tool** | Tap the circle — inhale for 4 seconds, exhale for 6 seconds |
-| 🎲 **Distraction Button** | Opens random calming content (wholesome IG tags, lofi, self-care articles) |
-| 📋 **One‑tap Share** | Copies a kind message to clipboard for Instagram DMs or Stories |
-| 📱 **Fully Responsive** | Looks beautiful on phones, tablets, and desktops |
-| 🕯️ **Soft Visual Design** | Warm gradients, serif + sans fonts, rounded cards, and calming colours |
+|  **5 Reassurance Messages** | Gentle truths about not being behind, worth beyond likes, comparison, logging off, and gratitude + desire |
+|  **Interactive Breathing Tool** | Tap the circle — inhale for 4 seconds, exhale for 6 seconds |
+|  **Distraction Button** | Opens random calming content (wholesome IG tags, lofi, self-care articles) |
+|  **One‑tap Share** | Copies a kind message to clipboard for Instagram DMs or Stories |
+|  **Fully Responsive** | Looks beautiful on phones, tablets, and desktops |
+|  **Soft Visual Design** | Warm gradients, serif + sans fonts, rounded cards, and calming colours |
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
-![Desire Preview](https://via.placeholder.com/800x400?text=Desire+Reassurance+Page)
 
-> *Live demo: [desire.calm/note](https://your-demo-link.com) (replace with your actual URL)*
-
----
-
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repository
 ```bash
@@ -72,7 +57,7 @@ Just open `index.html` in your browser — no build step required.
 
 ---
 
-## 🛠️ Customization
+##  Customization
 
 ### Change colours
 Edit the CSS variables / gradient at the top of `<style>`:
@@ -102,7 +87,7 @@ Swap the `<i class="fas fa-heart"></i>` icon or replace with an `<img>` tag.
 
 ---
 
-## 📁 File Structure
+##  File Structure
 ```
 desire-reassurance/
 ├── index.html          # complete website (HTML, CSS, JS)
@@ -114,14 +99,14 @@ desire-reassurance/
 
 ---
 
-## 📄 License
+##  License
 
 MIT — feel free to use, modify, and share with kindness.  
 A credit back to **@desire.space** is appreciated but not required.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a small, soulful project. If you have ideas for more calming tools, accessible features, or poetic additions:
 
