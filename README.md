@@ -132,43 +132,16 @@ This is a small, soulful project. If you have ideas for more calming tools, acce
 
 ---
 
-## 💬 Support & Community
+##  Contact
 
-- Instagram: [@desire.space](https://instagram.com/desire.space) (replace with your actual handle)
-- Found a bug? [Open an issue](https://github.com/yourusername/desire-reassurance/issues)
+Om Gedam
 
----
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-## 🌸 Final Note
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-> *You are not a product to be optimized. You are a person to be lived.*
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
 
-Made with slow breaths and soft intentions.  
-— **Desire Team**
-```
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
 
----
-
-## 🔧 What to customize before publishing
-
-| Placeholder | Replace with |
-|-------------|---------------|
-| `yourusername` | Your actual GitHub username |
-| `your-demo-link.com` | Your live website URL (Netlify, Vercel, etc.) |
-| `@desire.space` | Your real Instagram handle |
-| Preview image URL | Upload a screenshot of the page and replace the placeholder |
-
----
-
-## 📸 Bonus: Adding a real preview image
-
-1. Take a screenshot of your **Desire** webpage
-2. Save it as `preview.png` in the repo root
-3. Replace the `https://via.placeholder.com/...` line with:
-```markdown
-![Desire Preview](preview.png)
-```
-
----
-
-Let me know if you'd like a **dark mode version**, a **blog post style README**, or badges for **GitHub Pages deployment status**!
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
